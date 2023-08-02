@@ -25,9 +25,8 @@
 
 - 📫 How to reach me **prabal.ece.aec@ieee.org** 
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ik4zS0dcmwKi08YEHvfP_X93eaKeVKF5/view?usp=drive_link](https://drive.google.com/file/d/1ik4zS0dcmwKi08YEHvfP_X93eaKeVKF5/view?usp=drive_link)
 
-<br><br>🕵 Take a look at my repositories and let's get in touch!<br>
+<br>🕵 Take a look at my repositories and let's get in touch!<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

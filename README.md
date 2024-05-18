@@ -19,7 +19,7 @@
 
 - 🤝 I’m looking for help with **Web Development and DSA.**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://prabal-chakraborty.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://prabal-chakraborty-portfolio.vercel.app/)
 
 - 💬 Ask me about **Web Development, java, Android Development**
 

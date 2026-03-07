@@ -1,6 +1,6 @@
 ![header](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 <h1 align="center">Hi 👋, I'm Prabal Chakraborty</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer at Tata Consultancy Services.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabal-chakraborty&label=Profile%20views&color=0e75b6&style=flat" alt="prabal-chakraborty" /> </p>
 <p align="center">
@@ -15,9 +15,9 @@
 
 
 
-- 🌱 I’m currently learning **Full Stack Web Development.**
+- 🌱 I’m currently learning **GenAI Development**
 
-- 🤝 I’m looking for help with **Web Development and DSA.**
+- 🤝 I’m looking for help with **AI ML DL**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://prabal-chakraborty-portfolio.vercel.app/)
 

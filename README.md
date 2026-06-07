@@ -1,57 +1,121 @@
-![header](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
-<h1 align="center">Hi 👋, I'm Prabal Chakraborty</h1>
-<h3 align="center">A passionate fullstack developer at Tata Consultancy Services.</h3>
+<!-- <div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prabal-chakraborty&label=Profile%20views&color=0e75b6&style=flat" alt="prabal-chakraborty" /> </p>
-<p align="center">
+```
+██████╗ ██████╗  █████╗ ██████╗  █████╗ ██╗
+██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔══██╗██║
+██████╔╝██████╔╝███████║██████╔╝███████║██║
+██╔═══╝ ██╔══██╗██╔══██║██╔══██╗██╔══██║██║
+██║     ██║  ██║██║  ██║██████╔╝██║  ██║███████╗
+╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚══════╝
+```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&width=1100&center=true&lines=Welcome+To+My+Github+Profile;FullStack+Web+Developer;B.Tech+in+Electronics+And+Communication+Engineering;At+Asansol+Engineering+College;Let's+Connect+To+Build+Future.)](https://git.io/typing-svg)
+</div> -->
 
- </p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Prabal%20Chakraborty&fontSize=60&fontColor=00d4ff&fontAlignY=38&desc=Full%20Stack%20Developer%20%40%20TCS&descSize=20&descAlignY=60&descColor=a0c4d8&animation=twinkling" />
+</div>
 
-<hr/>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%40+TCS+%F0%9F%92%BC;Angular+8+%E2%86%92+19%2B+Specialist+%E2%9A%A1;React+%7C+Node+%7C+FastAPI+%7C+Python;Building+Scalable+Web+Architectures+%F0%9F%8F%97%EF%B8%8F;Open+to+Collaborate+on+GenAI+Projects+%F0%9F%A4%96)](https://git.io/typing-svg)
 
-<img align="right" width="270" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
+</div>
 
+---
 
+## 🧭 About Me
 
-- 🌱 I’m currently learning **GenAI Development**
+```typescript
+const prabal: Developer = {
+  name:       "Prabal Chakraborty",
+  role:       "Full Stack Developer",
+  company:    "Tata Consultancy Services (TCS)",
+  education:  "B.Tech — Electronics & Communication Engineering",
+              // Asansol Engineering College
+  location:   "West Bengal, India 🇮🇳",
+  learning:   ["GenAI Development", "AI/ML/DL"],
+  interests:  ["Web Architecture", "API Design", "Android Dev"],
+  contact:    "cprabal70@gmail.com",
+  funFact:    "I turn ☕ into scalable full-stack applications",
+};
+```
 
-- 🤝 I’m looking for help with **AI ML DL**
+---
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://prabal-chakraborty-portfolio.vercel.app/)
+## 🛠️ Tech Stack
 
-- 💬 Ask me about **Web Development, java, Android Development**
+### 🎨 Frontend
+![Angular](https://img.shields.io/badge/Angular%208–19+-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-- 📫 How to reach me **prabal.ece.aec@ieee.org** 
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Java](https://img.shields.io/badge/Core_Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
+### 🗄️ Databases & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Android](https://img.shields.io/badge/Android_Dev-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-<br>🕵 Take a look at my repositories and let's get in touch!<br>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/prabal-chakraborty-82b61a212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prabal-chakraborty-82b61a212" height="30" width="40" /></a>
-<a href="https://instagram.com/scoop_ninja001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="scoop_ninja001" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/prabal24c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prabal24c" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/prabal_chakraborty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prabal_chakraborty" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/prabal24c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prabal24c" height="30" width="40" /></a>
-</p>
-<br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 📊 GitHub Stats
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prabal-chakraborty&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a0c4d8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabal-chakraborty&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=a0c4d8"/>
+</div>
 
-<br><br><br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabal-chakraborty&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" />
+</div>
 
-### Github Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabal-chakraborty&show_icons=true&locale=en&layout=compact" alt="prabal-chakraborty" /></p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prabal-chakraborty&bg_color=0d1117&color=00d4ff&line=203a43&point=00d4ff&area=true&hide_border=true" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabal-chakraborty&show_icons=true&locale=en" alt="prabal-chakraborty" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabal-chakraborty&" alt="prabal-chakraborty" /></p>
+## 🚀 What I'm Up To
 
+- 🔭 Working as a **Full Stack Developer** at **Tata Consultancy Services**
+- 🌱 Currently diving deep into **Generative AI Development**
+- 🤝 Looking to collaborate on **AI / ML / Deep Learning** projects
+- 💻 Check out my work at **[Portfolio →](https://prabal-exp-portfolio.netlify.app/)**
+- 💬 Ask me anything about **Angular, React, Node.js, FastAPI, or Java**
+- 📫 Reach me at **cprabal70@gmail.com**
 
+---
 
+## 🤝 Connect with Me
 
+<div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prabal-chakraborty-82b61a212)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=vercel&logoColor=00d4ff)](https://prabal-chakraborty-portfolio.vercel.app/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/prabal_chakraborty)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/prabal24c)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/prabal24c)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/scoop_ninja001)
 
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=prabal-chakraborty&label=Profile+Views&color=00d4ff&style=for-the-badge" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&animation=twinkling" />
+</div>
